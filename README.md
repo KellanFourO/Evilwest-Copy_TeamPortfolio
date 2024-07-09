@@ -11,8 +11,9 @@
 [![Video Label](https://ifh.cc/g/mTRklo.jpg)](https://youtu.be/E9E7zZkeh3M?t=652)
 
 # Development period and team size
- ## Development period : 2024.02.13 ~ 2024.04.15
- <br/>
+   
+ Development period : 2024.02.13 ~ 2024.04.15
+   
  ## Team Size : 6 people
 
 # [3] Usage
