@@ -1,5 +1,7 @@
 # Evilwest 모작 팀 프로젝트
 
+서부 액션 RPG 장르인 Evilwest라는 3D 게임을 팀을 구성해 모작 하였습니다.
+
 ## 사용된 기술
 -   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?&logo=c&logoColor=white)
 -   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
