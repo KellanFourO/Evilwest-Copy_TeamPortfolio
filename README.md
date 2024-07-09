@@ -7,7 +7,7 @@
     ![HLSL](https://img.shields.io/badge/HLSL%20-%236DA252.svg?&logo=HLSL&logoColor=white)
 
 <!--프로젝트 대문 -->
-[![Video Label](https://www.youtube.com/watch?v=E9E7zZkeh3M)](https://youtu.be/https://www.youtube.com/watch?v=E9E7zZkeh3M)
+[![Video Label](http://img.youtube.com/vi/E9E7zZkeh3M/0.jpg)](https://youtu.be/E9E7zZkeh3M?t=652)
 
 
 
