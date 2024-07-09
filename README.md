@@ -1,6 +1,6 @@
 # Evilwest 모작 팀 프로젝트
 
-- **Tech**:
+- **기술**:
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
     ![Direct 11](https://img.shields.io/badge/Direct%2011%20-%236DA252.svg?&logo=Direct11&logoColor=white)
