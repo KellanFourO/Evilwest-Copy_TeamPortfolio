@@ -7,7 +7,8 @@
     ![HLSL](https://img.shields.io/badge/HLSL%20-%236DA252.svg?&logo=HLSL&logoColor=white)
 
 <!--프로젝트 대문 -->
-<video  src="https://www.youtube.com/watch?v=E9E7zZkeh3M"  controls>Tech Portfolio</video>
+[![Video Label](https://www.youtube.com/watch?v=E9E7zZkeh3M)](https://youtu.be/https://www.youtube.com/watch?v=E9E7zZkeh3M)
+
 
 
 <!--프로젝트 버튼-->
