@@ -9,6 +9,7 @@
 <!--프로젝트 대문 -->
 [![Video Label](http://img.youtube.com/vi/E9E7zZkeh3M/0.jpg)](https://youtu.be/E9E7zZkeh3M?t=652)
 
+![image](https://github.com/KellanFourO/Evilwest-Copy_TeamPortfolio/assets/64465125/15e591c4-35f9-4708-8719-813800ae80df)
 
 
 <!--프로젝트 버튼-->
