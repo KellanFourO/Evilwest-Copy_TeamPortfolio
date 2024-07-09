@@ -14,7 +14,7 @@
    
  Development period : 2024.02.13 ~ 2024.04.15
    
- ## Team Size : 6 people
+ Team Size : 6 people
 
 # [3] Usage
 ***스크린샷, 코드** 등을 통해 **사용 방법**과 **사용 예제**를 보여주세요. 사용 예제별로 h2 헤더로 나누어 설명할 수 있습니다.*
