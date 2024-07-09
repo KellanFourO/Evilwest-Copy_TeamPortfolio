@@ -13,7 +13,7 @@
 
 
 <!--프로젝트 버튼-->
- ![Readme in English] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
+ ![Readme in English][view-demo-shield] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
 
 <!--목차-->
 # Table of Contents
